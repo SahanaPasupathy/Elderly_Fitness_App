@@ -1,0 +1,12 @@
+# Ignore the Python virtual environment
+venv/
+__pycache__/
+
+# Ignore the SQLite database file
+elderly_fitness.db
+
+# Ignore environment file with secret keys
+.env
+
+# Ignore system files
+.DS_Store

@@ -1,0 +1,17 @@
+# .streamlit/config.toml - Dark Mode Theme
+
+[theme]
+# A vibrant color for buttons and interactive elements
+primaryColor = "#00F6F6"  # Bright Cyan/Teal
+
+# The main background color of the app (dark charcoal)
+backgroundColor = "#0E1117"
+
+# The sidebar background color (a slightly lighter dark grey)
+secondaryBackgroundColor = "#1C1F2B"
+
+# The main text color (off-white for readability)
+textColor = "#FAFAFA"
+
+# The font style
+font = "sans serif"

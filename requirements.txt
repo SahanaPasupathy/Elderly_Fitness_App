@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+tensorflow
+mediapipe
+scikit-learn
+joblib
+python-dotenv
+pandas
+langchain
+langchain-core
+langchain-google-genai
+keras
